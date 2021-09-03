@@ -1,0 +1,3 @@
+The irobochakra/ircbloq trademarks, including the irobochakra/ircbloq name, logo and irobochakra eric robot, are property of the irobochakra. Marks may not be used to endorse or promote non-software products products derived from this software without specific prior written permission.
+
+Without retaining the irobochakra/ircbloq name, logo and irobochakra eric robot cannot be used for redistribution and use in source code and binary form without prior express written permission.
