@@ -15,6 +15,7 @@
 - Fixed EOL for Print in Multi Serial Port
 
 **Added**
+
 - Added 8x8 Display Extension
 - Added MPU6050 Extension
 - Added SharpIR
@@ -37,7 +38,7 @@
     4. When loading a project with a extension, an error will be reported and cannot be loaded.
     5. The input box of the variable increase block is parsed incorrectly when other blocks or variables are placed.
     6. In the double-numbered character, the movement blocks in the toolbox area will not automatically change to the coordinates of the character's current position.
-    7. Fix the problem that esp32 and esp8266 cannot start after clicking the reset button when connecting to openblock due to the lack of serial port to enable dtr rts flow control.
+    7. Fix the problem that esp32 and esp8266 cannot start after clicking the reset button when connecting to ircBloq due to the lack of serial port to enable dtr rts flow control.
     8. After connecting and disconnecting the device once in upload mode, no matter what mode is connected to the device again, it will not be able to establish communication with the connection firmata.
     9. ESP32 and ESP8266 will get stuck for a long time between compiling and uploading.
 
