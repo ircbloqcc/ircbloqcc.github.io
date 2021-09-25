@@ -1,4 +1,24 @@
 # Changelog IRCBLOQV4
+### ircBloqV4 - V4.1.1
+
+**Bug Fixes**
+
+- Improving compiling and upload speed
+- code space is empty if load a same project with no device extension twice
+- Modify the parameter name to make it more appropriate to its function
+- Misspelled LearnMore in Gui
+- changed Whole Number to Integer in Data Blocks
+- While loading a new project because of windows alert issues, cannot able to edit
+- added 76800baud for esp32 and esp8266
+- didn't update target and workspace if there is no device extension
+- Adjust the project loading method and fix the problem of repeatedly loading targets
+- adjust the params of installDeviceExtensions() to support call by gui
+- Adjust the process of loading the project
+- fix bug: After creating a new sprite, the device selection is cleared.
+- fix bug: An error occurs when loading a project file that contains multiple device extensions.
+- conversion name and typo fixed Commen -> Common
+- Optimize server program, prepare data in advance to speed up service processing speed
+
 ## V4.1.0
 
 **Bug Fixes**

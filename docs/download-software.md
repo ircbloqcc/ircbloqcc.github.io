@@ -4,11 +4,11 @@
 
 ![](assets/IrcBloq.png)
 
-[Windows x64 :fontawesome-solid-download:](https://drive.google.com/uc?export=download&confirm=3Ti4&id=1NUJyIaTFJ4knzWHR8_A3MH0R8qj9j2js){: .md-button  .md-button--primary}
+[Windows x64 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-releases/releases/download/V4.1.1/ircBloqV4.4.1.1.Win-x64.zip){: .md-button  .md-button--primary}
 
-[Windows x86/ia32 :fontawesome-solid-download:](https://drive.google.com/uc?export=download&confirm=0iXp&id=1iNSsxyqBYY4WAgtDRuwOzS8e2t9hxPTB){: .md-button  .md-button--primary}
+[Windows x86/ia32 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-releases/releases/download/V4.1.1/ircBloqV4.4.1.1.Win-x86-ia32.zip){: .md-button  .md-button--primary}
 
-[MacOs x64 :fontawesome-solid-download:](https://drive.google.com/uc?export=download&confirm=rzf7&id=1-XspdPs0IzxZRIK8fb_hE7BoF5LBcXJ5){: .md-button  .md-button--primary}
+[MacOs x64 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-releases/releases/download/V4.1.1/ircBloqV4.4.1.1.MacOs-x64.zip){: .md-button  .md-button--primary}
 
 ## IrcBloqV4-Link
 
@@ -17,8 +17,4 @@
 
 ![](assets/IrcBloq-Link.png) 
 
-[Windows x64 :fontawesome-solid-download:](https://drive.google.com/uc?export=download&confirm=WSSP&id=132c-9A2jWF1UaNNcuLZB1sJN3wL-OTAM){: .md-button  .md-button--primary}
-
-[Windows x86/ia32 :fontawesome-solid-download:](https://drive.google.com/uc?export=download&confirm=juMm&id=1Q1hwa1aP8eylJaR9g1GfVvQ93bVOg3jt){: .md-button  .md-button--primary}
-
-[MacOs x64 :fontawesome-solid-download:](https://drive.google.com/uc?export=download&confirm=9W1-&id=12T0G3ONmwrnDGMshJKLy71Ju67ryNQky){: .md-button  .md-button--primary}
+Due to the recent significant software update, ircBloqV4-Link has not yet completed the upgrade, resulting in incompatibility with the current online webpage. The download of ircBloqV4-Link is temporarily closed.
