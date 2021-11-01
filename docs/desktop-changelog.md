@@ -1,5 +1,24 @@
 # Changelog IRCBLOQV4
-### ircBloqV4 - V4.1.1
+
+## V4.1.2
+
+- **New feature**
+
+    1. Added Main App Update Checking
+    2. Added Sounds for Blocks adding and Deletion 
+    3. Add support for original scratch project files.
+    4. Add the eric to the sprite and custom library.
+
+- **Fix bug**
+
+    1. Switching the programming mode while the sprite is speaking will cause the interface to crash.
+    2. When loading a project file containing custom list variables, an error will be reported that the loading cannot be completed.
+    3. The parameter blocks of custom functions will be disabled when switching modes.
+    4. The serial port data of esp32 and microbit is not displayed in the terminal.
+    5. Correct the programming language icon of esp32 and NodeMCU.
+    6. Port not disconnecting While uploading Error caused.
+
+## V4.1.1
 
 **Bug Fixes**
 
