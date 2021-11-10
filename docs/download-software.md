@@ -21,8 +21,8 @@
 
 ### Latest Version : V4.1.2
 
-[Windows x64 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-link-releases/releases/download/V4.1.2/ircBloqV4Desktop-V4.1.2-win-x64.zip){: .md-button  .md-button--primary}
+[Windows x64 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-link-releases/releases/download/V4.1.2/ircBloqV4Link-V4.1.2-win-x64.zip){: .md-button  .md-button--primary}
 
-[Windows x86/ia32 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-link-releases/releases/download/V4.1.2/ircBloqV4Desktop-V4.1.2-win-x86.zip){: .md-button  .md-button--primary}
+[Windows x86/ia32 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-link-releases/releases/download/V4.1.2/ircBloqV4Link-V4.1.2-win-x86.zip){: .md-button  .md-button--primary}
 
-[MacOs x64 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-link-releases/releases/download/V4.1.2/ircBloqV4Desktop-V4.1.2-mac.zip){: .md-button  .md-button--primary}
+[MacOs x64 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-link-releases/releases/download/V4.1.2/ircBloqV4Link-V4.1.2-mac.zip){: .md-button  .md-button--primary}
