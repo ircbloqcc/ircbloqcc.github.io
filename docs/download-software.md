@@ -4,7 +4,7 @@
 
 ![](assets/IrcBloq.png)
 
-### Latest Version : V4.1.2
+### ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ircbloqcc/ircbloq-releases)
 
 [Windows x64 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-releases/releases/download/V4.1.2/ircBloqV4Desktop-4.1.2-win-x64.zip){: .md-button  .md-button--primary}
 
@@ -19,7 +19,7 @@
 
 ![](assets/IrcBloq-Link.png) 
 
-### Latest Version : V4.1.2
+### ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ircbloqcc/ircbloq-link-releases)
 
 [Windows x64 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-link-releases/releases/download/V4.1.2/ircBloqV4Link-V4.1.2-win-x64.zip){: .md-button  .md-button--primary}
 
