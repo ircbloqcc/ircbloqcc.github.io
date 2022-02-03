@@ -1,5 +1,25 @@
 # Changelog IRCBLOQV4
 
+## V4.1.3
+
+- **New feature**
+	
+	1. Added code editing support, now you can edit the code after unlocking the code area.
+	2. Changed Loading animation at start
+	3. Hide costumes and sound stage in Program mode
+	4. Added courier New font, modified wait block in python, removed event xml in program mode
+	5. Add a new condition to check whether the block is in the custom block.
+	6. device icon added for each device in Category header
+	7. added some features for future update
+
+- **Fix bug**
+	1. fix: change block in micropython not accepting more than 2 digits
+	2. fix: Lists in micropython
+	3. fix: now you can numbers in String Format
+	4. esp32 and 8266 interrupt bug fix
+	5. fix the problem that the newly created list variable under arduino is displayed in the code area.
+
+
 ## V4.1.2
 
 - **New feature**

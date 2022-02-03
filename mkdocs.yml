@@ -1,13 +1,13 @@
 # Project information
 site_name: IrcBloq Software
-site_url: https://ircbloqcc.github.io/wiki/
+site_url: https://ircbloqcc.github.io/
 site_author: iRobochakra Team
 site_description: >-
   IrcBloq English Wiki
 
 # Repository
 repo_name: ircbloqcc/wiki
-repo_url: https://github.com/ircbloqcc/wiki
+repo_url: https://github.com/ircbloqcc/ircbloqcc.github.io
 edit_uri: ""
 
 # Copyright
@@ -16,7 +16,7 @@ copyright: Copyright &copy; 2021 iRobochakra
 # Configuration
 theme:
   name: null
-  custom_dir: !ENV [THEME_DIR, "material"]
+  custom_dir: material
 
   # Static files
   static_templates:
@@ -74,7 +74,7 @@ plugins:
 extra:
   analytics:
     provider: google
-    property: !ENV GOOGLE_ANALYTICS_KEY
+    property: !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/ircbloqcc
