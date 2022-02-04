@@ -3,12 +3,7 @@ site_name: IrcBloq Software
 site_url: https://ircbloqcc.github.io/
 site_author: iRobochakra Team
 site_description: >-
-  IrcBloq English Wiki
-
-# Repository
-repo_name: ircbloqcc/wiki
-repo_url: https://github.com/ircbloqcc/ircbloqcc.github.io
-edit_uri: ""
+  IrcBloq Wiki
 
 # Copyright
 copyright: Copyright &copy; 2021 iRobochakra
@@ -76,12 +71,10 @@ extra:
     provider: google
     property: !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/ircbloqcc
     - icon: fontawesome/brands/facebook
       link: https://facebook.com/irobochakra
-#    - icon: fontawesome/brands/website
-#     link: https://irobochakra.com
+    - icon: fontawesome/solid/robot
+      link: https://irobochakra.com
 
 # Extensions
 markdown_extensions:
@@ -133,8 +126,10 @@ nav:
   - General user:
     - Quick start: normal-user/quick-start.md
     - Interface introduction: normal-user/interface-introduction.md
+  - Installation Procedure: 
+    - Mac OS: installation-procedure/installation-procedure-mac-os.md
   - Downloads:
-    - Download software: download-software.md
+    - Download software: wiki/download-software.md
   - Changelog:
     - Desktop changelog: desktop-changelog.md
     - Link changelog: link-changelog.md
