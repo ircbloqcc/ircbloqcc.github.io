@@ -6,6 +6,11 @@
 
 ### ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ircbloqcc/ircbloq-releases)
 
+!!! important
+	**Before install new Version, Please go below link.**
+	
+[:fontawesome-solid-exclamation-triangle: **click Here** :fontawesome-solid-exclamation-triangle:](./version-update-warning.md) **Read this before Update**
+	
 [Windows x64 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-releases/releases/download/V4.1.3/ircBloqV4Desktop-4.1.3-win-x64.zip){: .md-button }
 
 [Windows x86/ia32 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-releases/releases/download/V4.1.3/ircBloqV4Desktop-4.1.3-win-x86.zip){: .md-button }
