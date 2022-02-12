@@ -130,7 +130,6 @@ nav:
     - Mac OS: installation-procedure/installation-procedure-mac-os.md
   - Downloads:
     - Download software: wiki/download-software.md
-    - Read before installation: wiki/version-update-warning.md
   - Changelog:
     - Desktop changelog: desktop-changelog.md
     - Link changelog: link-changelog.md
