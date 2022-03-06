@@ -26,11 +26,15 @@ In the real-time mode, the software interface is mostly the same as SC3, and onl
 
 6. Settings
 
-     - Check for updates
+     - Check for update
         
          Check if there is an updated version of the extended resource
+		 
+	- Check for main update
+        
+         Check if there is an updated version of ircBloqV4
     
-     -Clear cache and restart
+     - Clear cache and restart
 
          Clear the locally downloaded update and temporary files of the compiled project and restart the software
 

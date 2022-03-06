@@ -127,6 +127,7 @@ nav:
     - Quick start: normal-user/quick-start.md
     - Interface introduction: normal-user/interface-introduction.md
   - Installation Procedure: 
+    - Windows: installation-procedure/installation-procedure-windows.md
     - Mac OS: installation-procedure/installation-procedure-mac-os.md
   - Downloads:
     - Download software: wiki/download-software.md
