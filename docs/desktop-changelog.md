@@ -1,4 +1,36 @@
-# Changelog IRCBLOQV4
+# Change Log IRCBLOQV4
+
+## V4.1.5
+
+- **Fix Bug**
+
+    1. Upload Firmware Bug after update to V4.1.4.
+	
+## V4.1.4
+
+- **New feature**
+
+    1. Application NEW auto-update feature is now supported.
+    2. Supports opening multiple apps at the same time.
+    3. Add software new loading interface.
+    4. Disable the edit button in the menu bar in upload mode.
+    5. Optimize and reduce the file size of external resources.
+    6. Merge the installation files for the 32-bit and 64-bit versions of the windows version.
+    7. When saving a project without a hardware device, convert it to a format supported by scratch3, so that scratch3 can open the pure scratch project created by ircbloq. (The save format is still .ib but scratch can be forced to open)
+
+- **Fix bug**
+
+    1. Fix the problem that the software needs to copy the cache when it is first started, resulting in no display for a long time. After the user clicks the startup icon multiple times, multiple programs operate on the cache at the same time, causing the cache file to be damaged. Then the program fails to start.
+    2. Fix wrong translation of button to turn on and off acceleration mode.
+    3. After selecting arduino uno and then mega2560, the pin menu is not updated.
+    4. The arduino pin interrupt function code is not right.
+    5. The python variable increase block will cut off the first digit after inputting more than two digits.
+    6. The generated code logic is incorrect when using a repeating block on a head block other than a hardware device startup event block.
+    7. The arduino's comparison block generates code that does not conform to the rules of the C language when the input is a pair of strings or a single character.
+    8. In micropython, since there is no global declaration for the custom variable in the function defined by the custom function or event, an error will be reported when using the custom variable block under these blocks.
+    9. Adjust the micropython code generation structure to prevent variables and functions from being called before the definition declaration.
+    10. Blocks generate code when they are dragged from the toolbar but not yet placed in the workspace.
+    11. Fix the arduino device sometimes wait for more than ten seconds to start uploading after the compilation is completed.
 
 ## V4.1.3
 
@@ -19,15 +51,15 @@
 	4. esp32 and 8266 interrupt bug fix
 	5. fix the problem that the newly created list variable under arduino is displayed in the code area.
 
-
 ## V4.1.2
 
 - **New feature**
 
     1. Added Main App Update Checking
     2. Added Sounds for Blocks adding and Deletion 
-    3. Add support for original scratch project files.
-    4. Add the eric to the sprite and custom library.
+    3. Optimize the windows nsis installation script. Now the first installation path will be set to the root directory of the c drive, and the subsequent installation path will be automatically detected and modified to the installation directory selected during the first installation.
+    4. Add support for original scratch project files.
+    5. Add the eric to the sprite and custom library.
 
 - **Fix bug**
 
@@ -58,6 +90,7 @@
 - conversion name and typo fixed Commen -> Common
 - Optimize server program, prepare data in advance to speed up service processing speed
 
+
 ## V4.1.0
 
 **Bug Fixes**
@@ -74,14 +107,13 @@
 - Fixed EOL for Print in Multi Serial Port
 
 **Added**
-
 - Added 8x8 Display Extension
 - Added MPU6050 Extension
 - Added SharpIR
 - Added ArduinoSourceCode insert
 - Added PCA9685- 16 Channel Servo Drive
 
-## v4.0.4
+## V4.0.4
 
 - **New feature**
 
@@ -97,11 +129,11 @@
     4. When loading a project with a extension, an error will be reported and cannot be loaded.
     5. The input box of the variable increase block is parsed incorrectly when other blocks or variables are placed.
     6. In the double-numbered character, the movement blocks in the toolbox area will not automatically change to the coordinates of the character's current position.
-    7. Fix the problem that esp32 and esp8266 cannot start after clicking the reset button when connecting to ircBloq due to the lack of serial port to enable dtr rts flow control.
+    7. Fix the problem that esp32 and esp8266 cannot start after clicking the reset button when connecting to ircbloq due to the lack of serial port to enable dtr rts flow control.
     8. After connecting and disconnecting the device once in upload mode, no matter what mode is connected to the device again, it will not be able to establish communication with the connection firmata.
     9. ESP32 and ESP8266 will get stuck for a long time between compiling and uploading.
 
-## v4.0.3
+## V4.0.3
 
 - **New feature**
     1. Add Kit filter option to device selection.
