@@ -4,18 +4,8 @@
 
 ![](assets/IrcBloq.png)
 
-### ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ircbloqcc/ircbloq-releases)
- 
-[Windows :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-releases/releases/download/V4.1.5/ircBloqV4-Desktop_V4.1.5.exe){: .md-button } - [**Windows installation procedure**](../installation-procedure/installation-procedure-windows.md)
-
-[MacOs x64 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-releases/releases/download/V4.1.5/ircBloqV4-Desktop_V4.1.5.dmg){: .md-button } - [**MacOs installation procedure**](../installation-procedure/installation-procedure-mac-os.md) 
-
-## Download Legacy/old Version 
-
-[ircBloqV4 V4.1.3 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-releases/releases/tag/V4.1.3){: .md-button }
-
-[ircBloqV3 V3.0.1 :fontawesome-solid-download:](https://drive.google.com/u/1/uc?export=download&confirm=OkOi&id=1HtarhIurSoV3di8tyoFnKmR1KHt8wD2w){: .md-button }
-
+!!! warning
+	No Desktop Version is available!! Use Online Version and Link Software.
 
 ## IrcBloqV4 Link
 
