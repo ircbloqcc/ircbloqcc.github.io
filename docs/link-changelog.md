@@ -1,4 +1,19 @@
 # Change Log
+## V4.1.6
+
+- **Bug Fix**
+
+     1. Removed Resource server and moved to cloud. 
+     2. Changed the Link server Port address.
+     3. Fixed CORS origin Error Fixed.
+     4. https Certificate issues while access from GUI.
+
+## V4.1.5
+
+- **New Features**
+
+    1. Updated New Resource Version.
+    2. Changed the Update external Resource method.
 
 ## v4.1.2
 

@@ -11,12 +11,12 @@ IrcBloqV4 is an open source graphics block programming software, which can be us
 | Device Type | Device model                                                                                                           |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------- |
 | Arduino     | Arduino UNO, Arduino Nano, Arduino Mini, Arduino Mega256, Arduino Leonardo, Arduino Esp32, NodeMCU, Arduino MakeyMakey |
-| MicroPython | Micro:bit, Micro:bit V2                                                                                                |
-|iRobochakra  | Amingo, iBotV2                                                                                                         |
+| MicroPython | Micro:bit, Micro:bit V2, Maixduino, Raspberry Pico                                                                     |
+| iRobochakra | Amingo, iBotV2                                                                                                         |
 
 ## Download Offline Version or Try Online
 
-[Download software :fontawesome-solid-download:](./wiki/download-software.md){: .md-button  .md-button--primary} [Visit Online :fontawesome-solid-globe-asia:](visit-online-version.md){: .md-button}
+[Download software :fontawesome-solid-download:](./wiki/download-software.md){: .md-button  .md-button--primary} [Visit Online :fontawesome-solid-globe:](visit-online-version.md){: .md-button}
 
 ## Instructions for Use
 
