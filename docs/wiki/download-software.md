@@ -16,8 +16,9 @@
 
 ### ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ircbloqcc/ircbloq-link-releases)
 
-[Windows x64 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-link-releases/releases/download/V4.1.6/ircBloqV4-Link.4.1.6.Win64.Setup.exe){: .md-button }
+[Windows x64 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-link-releases/releases/download/V4.1.9/ircBloqV4-Link.4.1.9.Setup.exe){: .md-button }
 
-[Windows x86/ia32 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-link-releases/releases/download/V4.1.6/ircBloqV4-Link.4.1.6.Win32.Setup.exe){: .md-button }
-
-[MacOs x64 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-link-releases/releases/download/V4.1.6/ircBloqV4-Link.4.1.6.mac.x64.dmg){: .md-button }
+!!! warning
+	For MacOs, this software might not be work properly.
+	
+[MacOs x64 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-link-releases/releases/download/V4.1.7/ircBloqV4-Link.4.1.7.mac.x64.dmg){: .md-button }
