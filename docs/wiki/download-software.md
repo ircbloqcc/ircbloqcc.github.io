@@ -11,6 +11,6 @@
 
 [Windows x64/x86 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-link-releases/releases/download/v4.2.2/IrcBloq-Agent_v4.2.2_win.exe){: .md-button }
 [Windows x64 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-link-releases/releases/download/v4.2.2/IrcBloq-Agent_v4.2.2_win_x64.exe){: .md-button }
-[Windows x86 :fontawesome-solid-download:]https://github.com/ircbloqcc/ircbloq-link-releases/releases/download/v4.2.2/IrcBloq-Agent_v4.2.2_win_ia32.exe){: .md-button }
+[Windows x86 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-link-releases/releases/download/v4.2.2/IrcBloq-Agent_v4.2.2_win_ia32.exe){: .md-button }
 [MacOS x64 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-link-releases/releases/download/v4.2.2/IrcBloq-Agent_v4.2.2_mac_x64.dmg){: .md-button }
 [Linux x64 :fontawesome-solid-download:](https://github.com/ircbloqcc/ircbloq-link-releases/releases/download/v4.2.2/IrcBloq-Agent_v4.2.2_linux_amd64.deb){: .md-button }
