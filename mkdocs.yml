@@ -117,7 +117,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: 
+  - Home:
     - Home: index.md
     - Visit online version: visit-online-version.md
     - Copyright Notice:
@@ -126,7 +126,7 @@ nav:
   - General user:
     - Quick start: normal-user/quick-start.md
     - Interface introduction: normal-user/interface-introduction.md
-  - Installation Procedure: 
+  - Installation Procedure:
     - Windows: installation-procedure/installation-procedure-windows.md
     - Mac OS: installation-procedure/installation-procedure-mac-os.md
   - Downloads:
